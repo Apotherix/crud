@@ -1,0 +1,10 @@
+/home/apotherix/Development/Palados/crud/target/debug/deps/axum_server-089b4a568388020c.d: /home/apotherix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/axum-server-0.7.2/src/lib.rs /home/apotherix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/axum-server-0.7.2/src/handle.rs /home/apotherix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/axum-server-0.7.2/src/notify_once.rs /home/apotherix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/axum-server-0.7.2/src/server.rs /home/apotherix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/axum-server-0.7.2/src/accept.rs /home/apotherix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/axum-server-0.7.2/src/service.rs
+
+/home/apotherix/Development/Palados/crud/target/debug/deps/libaxum_server-089b4a568388020c.rmeta: /home/apotherix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/axum-server-0.7.2/src/lib.rs /home/apotherix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/axum-server-0.7.2/src/handle.rs /home/apotherix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/axum-server-0.7.2/src/notify_once.rs /home/apotherix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/axum-server-0.7.2/src/server.rs /home/apotherix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/axum-server-0.7.2/src/accept.rs /home/apotherix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/axum-server-0.7.2/src/service.rs
+
+/home/apotherix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/axum-server-0.7.2/src/lib.rs:
+/home/apotherix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/axum-server-0.7.2/src/handle.rs:
+/home/apotherix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/axum-server-0.7.2/src/notify_once.rs:
+/home/apotherix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/axum-server-0.7.2/src/server.rs:
+/home/apotherix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/axum-server-0.7.2/src/accept.rs:
+/home/apotherix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/axum-server-0.7.2/src/service.rs:
