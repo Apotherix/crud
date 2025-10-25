@@ -31,6 +31,7 @@ pub async fn get_user(
     Extension(pool): Extension<SqlitePool>,
     Path(id): Path<i64>,
 ) -> Result<Json<User>, (axum::http::StatusCode, String)> {
+    tracing::info!("get_user handler invoked - id={}", id);
     let user = sqlx::query_as!(
         User,
         "SELECT id as \"id: i64\", name, email FROM users WHERE id = ?1",

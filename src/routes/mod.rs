@@ -12,7 +12,7 @@ pub async fn build_router() -> axum::Router {
 
     Router::new()
         .route("/users", post(create_user))
-        .route("/users/id", get(get_user). put(update_user). delete(delete_user))
+        .route("/users/{id}", get(get_user). put(update_user). delete(delete_user))
     .layer(Extension(pool))
 }
 
