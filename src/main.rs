@@ -1,4 +1,4 @@
-use axum::{routing::get, Router};
+// use axum::{routing::get, Router};
 use crud::{build_router, db::init_db};
 // use tracing_subscriber::{fmt, layer::SubscriberExt, EnvFilter};
 
@@ -9,7 +9,7 @@ async fn main() -> anyhow::Result<()> {
     // .with(EnvFilter::from_default_env())
     // .init();
 
-    let pool = init_db().await?;
+    let _pool = init_db().await?;
 
     let app = build_router().await;
 
