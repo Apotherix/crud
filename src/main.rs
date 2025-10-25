@@ -9,6 +9,7 @@ async fn main() -> anyhow::Result<()> {
     // .with(EnvFilter::from_default_env())
     // .init();
 
+    let _dotenv = dotenvy::dotenv();
     let _pool = init_db().await?;
 
     let app = build_router().await;
